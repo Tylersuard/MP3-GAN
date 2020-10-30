@@ -12,4 +12,6 @@ Generating Audio Music using Generative Adversarial Networks
 
 Included: the easy Colab training and generating notebooks for StyleGAN
 
+
+Image of Audio:
 ![Image of Audio Output from Photo Sounder](https://github.com/Tylersuard/MP3-GAN/raw/main/a17.bmp)
