@@ -11,3 +11,5 @@ Generating Audio Music using Generative Adversarial Networks
 6. StyleGAN created similar images, which I then converted back into sound using PhotoSounder
 
 Included: the easy Colab training and generating notebooks for StyleGAN
+
+![Image of Audio Output from Photo Sounder](https://github.com/Tylersuard/MP3-GAN/raw/main/a17.bmp)
